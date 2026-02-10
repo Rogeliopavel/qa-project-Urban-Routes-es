@@ -10,4 +10,4 @@
 ## Instrucciones:
 - Necesitas tener instalados los paquetes pytest y selenium.
 - Ejecuta todas las pruebas con el comando pytest.
-- ![Captura de pantalla 2026-02-10 143722.png](../../Pictures/Screenshots/Captura%20de%20pantalla%202026-02-10%20143722.png)Ejecuta todas las pruebas desde el archivo main.py, no de forma individual.
+- Ejecuta todas las pruebas desde el archivo main.py, no de forma individual.
