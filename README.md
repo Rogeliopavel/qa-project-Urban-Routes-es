@@ -1,7 +1,13 @@
 # Proyecto Urban Routes
-### Pruebas automatizadas para el proceso completo de pedir un taxi.
+#### Pruebas automatizadas para el proceso completo de pedir un taxi.
 ## Tecnologías Utilizadas:
-### El codigo en su totalidad se contruyó con el lenguaje de programación Python, en base al modelo POM.
+#### El código fue desarrollo mediante el lenguaje de programación Python versión 3.14, implementado las librerías:
+#### - webdriver                    - WebDriverWait
+#### - ChromeOptions                - json
+#### - By                           - time
+#### - expected_conditions          - WebDriverException
+#### Y estructurado en base al Modelo de Objetos de Pagina (POM).
 ## Instrucciones:
-- Necesitas tener instalado el paquete pytest.
+- Necesitas tener instalados los paquetes pytest y selenium.
 - Ejecuta todas las pruebas con el comando pytest.
+- ![Captura de pantalla 2026-02-10 143722.png](../../Pictures/Screenshots/Captura%20de%20pantalla%202026-02-10%20143722.png)Ejecuta todas las pruebas desde el archivo main.py, no de forma individual.
